@@ -331,10 +331,10 @@
 	}
 
 	#header {
-		-moz-animation: header 5s 1.25s forwards;
-		-webkit-animation: header 5s 1.25s forwards;
-		-ms-animation: header 5s 1.25s forwards;
-		animation: header 5s 1.25s forwards;
+		-moz-animation: header 2s 1.25s forwards;
+		-webkit-animation: header 2s 1.25s forwards;
+		-ms-animation: header 2s 1.25s forwards;
+		animation: header 2s 1.25s forwards;
 		-moz-backface-visibility: hidden;
 		-webkit-backface-visibility: hidden;
 		-ms-backface-visibility: hidden;
